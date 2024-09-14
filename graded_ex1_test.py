@@ -2,7 +2,7 @@ import unittest
 from io import StringIO
 from unittest.mock import patch
 import graded_ex_1 as gex
-
+ 
 
 
 class TestShoppingProgram(unittest.TestCase):
